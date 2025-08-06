@@ -1,0 +1,3 @@
+CREATE DATABASE SalesDB; 
+
+DROP DATABASE demo; 
